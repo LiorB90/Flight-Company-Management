@@ -1,0 +1,14 @@
+﻿  Plane.cpp
+  Pilot.cpp
+  main.cpp
+  Host.cpp
+  FlightInfo.cpp
+  FlightCompany.cpp
+  Flight.cpp
+  CrewMember.cpp
+  Cargo.cpp
+  Address.cpp
+  Generating Code...
+c:\users\olele\desktop\c++\hw\lior_barkai&david_twito\2\flight.cpp(68): warning C4715: 'CFlight::TakeOff': not all control paths return a value
+  Flight1_18.vcxproj -> C:\Users\olele\Desktop\c++\HW\Lior_Barkai&David_Twito\2\x64\Debug\Flight1_18.exe
+  Flight1_18.vcxproj -> C:\Users\olele\Desktop\c++\HW\Lior_Barkai&David_Twito\2\x64\Debug\Flight1_18.pdb (Partial PDB)
